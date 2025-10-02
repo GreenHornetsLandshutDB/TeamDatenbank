@@ -1,0 +1,5 @@
+[
+  { "team": "Raptors", "nfc_uid": "04A1B2C3D4", "active": true, "updated_ts": 1730445600 },
+  { "team": "Voodoos", "nfc_uid": null, "active": true, "updated_ts": 1730359200 },
+  { "team": "Racoons", "nfc_uid": "1122334455", "active": false, "updated_ts": 1729900000 }
+]
