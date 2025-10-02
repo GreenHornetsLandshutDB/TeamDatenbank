@@ -1,5 +1,30 @@
 [
-  { "team": "Raptors", "nfc_uid": "04A1B2C3D4", "active": true, "updated_ts": 1730445600 },
-  { "team": "Voodoos", "nfc_uid": null, "active": true, "updated_ts": 1730359200 },
-  { "team": "Racoons", "nfc_uid": "1122334455", "active": false, "updated_ts": 1729900000 }
+  {
+    "team": "Green Hornets",
+    "nfc_uid": "1223331",
+    "active": true,
+    "updated_ts": 1759422598.1578848,
+    "temporary": false
+  },
+  {
+    "team": "Racoons",
+    "nfc_uid": "1122334455",
+    "active": false,
+    "updated_ts": 1729900000.0,
+    "temporary": false
+  },
+  {
+    "team": "Raptors",
+    "nfc_uid": null,
+    "active": true,
+    "updated_ts": 1759418776.1515274,
+    "temporary": false
+  },
+  {
+    "team": "Voodoos",
+    "nfc_uid": null,
+    "active": true,
+    "updated_ts": 1730359200.0,
+    "temporary": false
+  }
 ]
