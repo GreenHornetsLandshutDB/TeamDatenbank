@@ -21,6 +21,13 @@
     "temporary": false
   },
   {
+    "team": "Mad Dogs",
+    "nfc_uid": 2342342342342,
+    "active": true,
+    "updated_ts": 1759418776.1515274,
+    "temporary": false
+  },
+  {
     "team": "Voodoos",
     "nfc_uid": null,
     "active": true,
