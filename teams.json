@@ -22,7 +22,7 @@
   },
   {
     "team": "Mad Dogs",
-    "nfc_uid": 2342342342342,
+    "nfc_uid": "2342342342342",
     "active": true,
     "updated_ts": 17594187762.1515274,
     "temporary": false
