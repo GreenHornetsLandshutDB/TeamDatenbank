@@ -1,1 +1,52 @@
-
+[
+  {
+    "team": "Bandits",
+    "nfc_uid": "04B1D140320289",
+    "active": true
+  },
+  {
+    "team": "Green Hornets",
+    "nfc_uid": "0451C900320289",
+    "active": true
+  },
+  {
+    "team": "Green Monkey Kings",
+    "nfc_uid": "0461292F320289",
+    "active": true
+  },
+  {
+    "team": "Mad Dogs",
+    "nfc_uid": "04B12E20320289",
+    "active": true
+  },
+  {
+    "team": "Meltdown",
+    "nfc_uid": "04F1CF2C320289",
+    "active": true
+  },
+  {
+    "team": "Paint Killers",
+    "nfc_uid": "04D1C22F320289",
+    "active": true
+  },
+  {
+    "team": "Racoons",
+    "nfc_uid": "04E1D91B320289",
+    "active": true
+  },
+  {
+    "team": "Raptors",
+    "nfc_uid": "04917329320289",
+    "active": true
+  },
+  {
+    "team": "Red Rabbits",
+    "nfc_uid": "0451EC40320289",
+    "active": true
+  },
+  {
+    "team": "Voodoo´s",
+    "nfc_uid": "04419239320289",
+    "active": true
+  }
+]
