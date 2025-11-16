@@ -1,1 +1,47 @@
-
+[
+  {
+    "team": "Brothers Dornbirn",
+    "nfc_uid": "04419239320289",
+    "active": true
+  },
+  {
+    "team": "Green Hornets",
+    "nfc_uid": "0451EC40320289",
+    "active": true
+  },
+  {
+    "team": "Hornets",
+    "nfc_uid": "04917329320289",
+    "active": true
+  },
+  {
+    "team": "Hornets Landshut",
+    "nfc_uid": "04818823320289",
+    "active": true
+  },
+  {
+    "team": "Hydras",
+    "nfc_uid": "04811221320289",
+    "active": true
+  },
+  {
+    "team": "Meltdown",
+    "nfc_uid": "0461292F320289",
+    "active": true
+  },
+  {
+    "team": "Raptors Landshut",
+    "nfc_uid": "04D1C22F320289",
+    "active": true
+  },
+  {
+    "team": "RBR",
+    "nfc_uid": "04B1D140320289",
+    "active": true
+  },
+  {
+    "team": "Scopes",
+    "nfc_uid": "04417523320289",
+    "active": true
+  }
+]
